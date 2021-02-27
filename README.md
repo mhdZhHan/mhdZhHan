@@ -15,16 +15,16 @@ Here are some ideas to get you started:
 -->
 <h2>Hi I'm Mohammed <img src="./wave.gif" width="30px" /></h2>
 <p align="center">
-    <a href=""><img src="./images/Website.svg"/></a>
-    <a href=""><img src="./images/Blog.svg"/></a>
-    <a href=""><img src="./images/Project.svg"/></a>
+    <a href="" target="_blank"><img src="./images/Website.svg"/></a>
+    <a href="https://mohammedshajahan.netlify.app/" target="_blank"><img src="./images/Blog.svg"/></a>
+    <a href="" target="_blank"><img src="./images/Project.svg"/></a>
 </p>
 <h2>Social</h2>
 <p align="center">
-    <a href="https://fosstodon.org/@MohammedShajahan7"><img src="./images/Mastodon.svg"/></a>
-    <a href="https://twitter.com/Mohammeds360"><img src="./images/Twitter.svg"/></a>
-    <a href="https://instagram.com/mohammedshajahan7"><img src="./images/Instagram.svg"/></a>
-    <a href="https://t.me/MohammedShajahan7"><img src="./images/Telegram.svg"/></a>
+    <a href="https://fosstodon.org/@MohammedShajahan7" target="_blank"><img src="./images/Mastodon.svg"/></a>
+    <a href="https://twitter.com/Mohammeds360" target="_blank"><img src="./images/Twitter.svg"/></a>
+    <a href="https://instagram.com/mohammedshajahan7" target="_blank"><img src="./images/Instagram.svg"/></a>
+    <a href="https://t.me/MohammedShajahan7" target="_blank"><img src="./images/Telegram.svg"/></a>
 </p>
 <h2>Status</h2>
 <details>
@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 </details>
 <h2>My Projects available in</h2>
 <p align="center">
-    <a href=""><img src="./images/Project.svg"/></a>
-    <a href="https://github.com/MohammedShajahan7"><img src="./images/Github.svg"/></a>
-    <a href="https://gitlab.com/MohammedShajahan7"><img src="./images/Gitlab.svg"/></a>
+    <a href="https://mohammedshajahan.netlify.app/projects/" target="_blank"><img src="./images/Project.svg"/></a>
+    <a href="https://github.com/MohammedShajahan7" target="_blank"><img src="./images/Github.svg"/></a>
+    <a href="https://gitlab.com/MohammedShajahan7" target="_blank"><img src="./images/Gitlab.svg"/></a>
 </p>
