@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 <h2>Hi I'm Mohammed <img src="./wave.gif" width="30px" /></h2>
 <p align="center">
-    <a href="" target="_blank"><img src="./images/Website.svg"/></a>
+    <a href="https://mohammedshajahan7.github.io/" target="_blank"><img src="./images/Website.svg"/></a>
     <a href="https://mohammedshajahan.netlify.app/" target="_blank"><img src="./images/Blog.svg"/></a>
     <a href="" target="_blank"><img src="./images/Project.svg"/></a>
 </p>
