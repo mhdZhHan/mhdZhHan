@@ -1,4 +1,4 @@
-## Hi I'm Mohammed <img src="./wave.gif" width="28px" alt="hi">
+## Hi ! I'm Mohammed <img src="./wave.gif" width="28px" alt="hi">
 
 I am Mohammed Shajahan, a self-taught programmer who loves to make & tinker with things
 
@@ -12,6 +12,7 @@ I am Mohammed Shajahan, a self-taught programmer who loves to make & tinker with
 - 🔭 I’m currently working on many stuff.
 - 📫 How to reach me: mohammedshajahan7000@gmail.com
 - ⚡ Fun fact: I play games and learning martial arts very often.
+- 💸 [Donate](#)
 
 #### Top Technologies
 
@@ -28,7 +29,7 @@ I am Mohammed Shajahan, a self-taught programmer who loves to make & tinker with
 
 #### Profile Visits 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=mohammedshajahan7.mohammedshajahan7)
+![Visits](https://visitor-badge.glitch.me/badge?page_id=mohammedshajahan7.mohammedshajahan7)
 
 <details>
 <summary>
