@@ -17,9 +17,9 @@ I am Mohammed Shajahan, a self-taught programmer who loves to make & tinker with
 ### Social
 
 [![Mastodon](./images/Mastodon.svg)](https://fosstodon.org/@MohammedShajahan7)
-[![Twitter](./images/Twitter.svg)](https://twitter.com/Mohammeds360)
+[![Twitter](./images/Twitter.svg)](https://twitter.com/mohammedsh6236)
 [![Instagram](./images/Instagram.svg)](https://instagram.com/mohammedshajahan7)
-[![Telegram](./images/Telegram.svg)](https://t.me/MohammedShajahan7)
+[![Telegram](./images/Telegram.svg)](https://t.me/mohammed_shajahan)
 
 #### Profile Visits 
 
