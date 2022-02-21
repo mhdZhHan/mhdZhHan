@@ -5,20 +5,20 @@ I am Mohammed Shajahan, a self-taught programmer who loves to make & tinker with
 :mailbox: Reach me out!
 
 [![Website Badge](./images/Website.svg)](https://mohammedshajahan7.github.io/)
-[![Website Badge](./images/Blog.svg)](https://mohammedshajahan.netlify.app/)
-[![Website Badge](./images/Project.svg)](#)
+[![Website Badge](./images/Blog.svg)](https://mohammedsh.com/)
+[![Website Badge](./images/Project.svg)](https://mohammedsh.com/projects)
 
 
 - 🔭 I’m currently working on many stuff.
 - 📫 How to reach me: mohammedshajahan7000@gmail.com
 - ⚡ Fun fact: I play games and learning martial arts very often.
-- 💸 [Donate](#)
+- 💸 [Donate](https://mohammedsh.com/donate)
 
 ### Social
 
 [![Mastodon](./images/Mastodon.svg)](https://fosstodon.org/@MohammedShajahan7)
 [![Twitter](./images/Twitter.svg)](https://twitter.com/mohammedsh6236)
-[![Instagram](./images/Instagram.svg)](https://instagram.com/mohammedshajahan7)
+[![Instagram](./images/Instagram.svg)](https://instagram.com/mohammed.sh_official)
 [![Telegram](./images/Telegram.svg)](https://t.me/mohammed_shajahan)
 
 #### Profile Visits 
