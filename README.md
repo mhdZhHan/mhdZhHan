@@ -1,4 +1,4 @@
-## Hi ! I'm Mohammed <img src="./wave.gif" width="28px" alt="hi">
+## Hi ! I'm Mohammed <img src="./wave.gif" width="5px" alt="hi">
 
 I am Mohammed Shajahan, a self-taught programmer who loves to make & tinker with things
 
