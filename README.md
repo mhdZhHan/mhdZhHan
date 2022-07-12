@@ -41,7 +41,7 @@ I am Mohammed Shajahan, a self-taught programmer who loves to make & tinker with
 I've made a lot of free & open source software which you can find in👇
 
 <p align="center">
-    <a href="https://mohammedshajahan.netlify.app/projects/" target="_blank"><img src="./images/Project.svg"/></a>
+    <a href="https://mohammedsh.com/projects/" target="_blank"><img src="./images/Project.svg"/></a>
     <a href="https://github.com/MohammedShajahan7" target="_blank"><img src="./images/Github.svg"/></a>
     <a href="https://gitlab.com/MohammedShajahan7" target="_blank"><img src="./images/Gitlab.svg"/></a>
 </p>
