@@ -32,7 +32,7 @@ I am Mohammed Shajahan, a self-taught programmer who loves to make & tinker with
 
 #### Github Stats
 
-![Mohammed's github stats](https://github-readme-stats.vercel.app/api?username=mohammedshajahan7_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true)
+![Mohammed's github stats](https://github-readme-stats.vercel.app/api?username=mohammedshajahan7&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true)
 
 </details>
 
