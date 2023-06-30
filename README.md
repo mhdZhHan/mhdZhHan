@@ -29,6 +29,9 @@ I am Mohammed, a self-taught programmer who loves to make & tinker with things
 
 </div>
 
+<br />
+<br />
+
 <div>
 
   ### Social
