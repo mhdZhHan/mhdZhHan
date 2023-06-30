@@ -1,6 +1,6 @@
 ## Hi ! I'm Mohammed <img src="./wave.gif" width="28" height="28" alt="hi" />
 
-I am Mohammed Shajahan, a self-taught programmer who loves to make & tinker with things
+I am Mohammed, a self-taught programmer who loves to make & tinker with things
 
 :mailbox: Reach me out!
 
@@ -8,6 +8,7 @@ I am Mohammed Shajahan, a self-taught programmer who loves to make & tinker with
 [![Website Badge](./images/Blog.svg)](https://mohammedsh.com/)
 [![Website Badge](./images/Project.svg)](https://mohammedsh.com/projects)
 
+<img align="left" height="150" src="./images/github-boy.png" alt="github-boy" style="margin-right: 2rem;" />
 
 - 🔭 I’m currently working on many stuff.
 - 📫 How to reach me: mohammedshajahan7000@gmail.com
@@ -17,17 +18,17 @@ I am Mohammed Shajahan, a self-taught programmer who loves to make & tinker with
 ### Social
 
 [![Mastodon](./images/Mastodon.svg)](https://fosstodon.org/@MohammedShajahan7)
-[![Twitter](./images/Twitter.svg)](https://twitter.com/_mohammedsh7)
-[![Instagram](./images/Instagram.svg)](https://instagram.com/_mohammedsh7)
+[![Twitter](./images/Twitter.svg)](https://twitter.com/mhd_zh_han)
+[![Instagram](./images/Instagram.svg)](https://instagram.com/mhd__zh_han)
 [![Telegram](./images/Telegram.svg)](https://t.me/mohammed_shajahan)
 
 #### Profile Visits 
 
-![Visits](https://visitor-badge.glitch.me/badge?page_id=mohammedshajahan7.mohammedshajahan7)
+[![Visits Badge](https://badges.pufler.dev/visits/mohammedshajahan7/mohammedshajahan7)](https://badges.pufler.dev)
 
 <details>
 <summary>
-  More stuff about me👇
+  More stuff 👇
 </summary>
 
 #### Github Stats
