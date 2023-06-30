@@ -12,11 +12,15 @@ I am Mohammed, a self-taught programmer who loves to make & tinker with things
 
 </div>
 
-<div>
+<div style="display: flex;align-items: center;">
 
-  <img align="left" height="150" src="./images/github-boy.png" alt="github-boy" style="margin-right: 2rem;" />
-
-  <br/>
+  <img 
+    align="left" 
+    width="150" 
+    src="./images/github-boy.png" 
+    alt="github-boy" 
+    style="margin-right: 2rem;" 
+  />
 
   - 🔭 I’m currently working on many stuff.
   - 📫 How to reach me: mohammedshajahan7000@gmail.com
