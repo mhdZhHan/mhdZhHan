@@ -12,7 +12,7 @@ I am Mohammed, a self-taught programmer who loves to make & tinker with things
 
 </div>
 
-<div style="display: flex;align-items: center;">
+<div style="display: flex !important;align-items: center !important;">
 
   <img 
     align="left" 
