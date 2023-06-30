@@ -16,6 +16,8 @@ I am Mohammed, a self-taught programmer who loves to make & tinker with things
 
   <img align="left" height="150" src="./images/github-boy.png" alt="github-boy" style="margin-right: 2rem;" />
 
+  <br/>
+
   - 🔭 I’m currently working on many stuff.
   - 📫 How to reach me: mohammedshajahan7000@gmail.com
   - ⚡ Fun fact: I play games and learning martial arts very often.
@@ -31,7 +33,7 @@ I am Mohammed, a self-taught programmer who loves to make & tinker with things
   [![Twitter](./images/Twitter.svg)](https://twitter.com/mhd_zh_han)
   [![Instagram](./images/Instagram.svg)](https://instagram.com/mhd__zh_han)
   [![Telegram](./images/Telegram.svg)](https://t.me/mohammed_shajahan)
-  
+
 </div>
 
 #### Profile Visits 
