@@ -2,25 +2,37 @@
 
 I am Mohammed, a self-taught programmer who loves to make & tinker with things
 
-:mailbox: Reach me out!
+<div>
 
-[![Website Badge](./images/Website.svg)](https://mohammedshajahan7.github.io/)
-[![Website Badge](./images/Blog.svg)](https://mohammedsh.com/)
-[![Website Badge](./images/Project.svg)](https://mohammedsh.com/projects)
+  📫 Reach me out!
+    
+  [![Website Badge](./images/Website.svg)](https://mohammedshajahan7.github.io/)
+  [![Website Badge](./images/Blog.svg)](https://mohammedsh.com/)
+  [![Website Badge](./images/Project.svg)](https://mohammedsh.com/projects)
 
-<img align="left" height="150" src="./images/github-boy.png" alt="github-boy" style="margin-right: 2rem;" />
+</div>
 
-- 🔭 I’m currently working on many stuff.
-- 📫 How to reach me: mohammedshajahan7000@gmail.com
-- ⚡ Fun fact: I play games and learning martial arts very often.
-- 💸 [Donate](https://mohammedsh.com/donate)
+<div>
 
-### Social
+  <img align="left" height="150" src="./images/github-boy.png" alt="github-boy" style="margin-right: 2rem;" />
 
-[![Mastodon](./images/Mastodon.svg)](https://fosstodon.org/@MohammedShajahan7)
-[![Twitter](./images/Twitter.svg)](https://twitter.com/mhd_zh_han)
-[![Instagram](./images/Instagram.svg)](https://instagram.com/mhd__zh_han)
-[![Telegram](./images/Telegram.svg)](https://t.me/mohammed_shajahan)
+  - 🔭 I’m currently working on many stuff.
+  - 📫 How to reach me: mohammedshajahan7000@gmail.com
+  - ⚡ Fun fact: I play games and learning martial arts very often.
+  - 💸 [Donate](https://mohammedsh.com/donate)
+
+</div>
+
+<div>
+
+  ### Social
+
+  [![Mastodon](./images/Mastodon.svg)](https://fosstodon.org/@MohammedShajahan7)
+  [![Twitter](./images/Twitter.svg)](https://twitter.com/mhd_zh_han)
+  [![Instagram](./images/Instagram.svg)](https://instagram.com/mhd__zh_han)
+  [![Telegram](./images/Telegram.svg)](https://t.me/mohammed_shajahan)
+  
+</div>
 
 #### Profile Visits 
 
