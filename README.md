@@ -12,7 +12,7 @@ I am Mohammed, a self-taught programmer who loves to make & tinker with things
 
 </div>
 
-<div style="display: flex !important;align-items: center !important;">
+<span style="display: flex !important;align-items: center !important;">
 
   <img 
     align="left" 
@@ -27,7 +27,7 @@ I am Mohammed, a self-taught programmer who loves to make & tinker with things
   - ⚡ Fun fact: I play games and learning martial arts very often.
   - 💸 [Donate](https://mohammedsh.com/donate)
 
-</div>
+</span>
 
 <br />
 <br />
