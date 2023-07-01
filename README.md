@@ -2,18 +2,13 @@
 
 I am Mohammed, a self-taught programmer who loves to make & tinker with things
 
-<div>
+📫 Reach me out!
 
-  📫 Reach me out!
-    
-  [![Website Badge](./images/Website.svg)](https://mohammedshajahan7.github.io/)
-  [![Website Badge](./images/Blog.svg)](https://mohammedsh.com/)
-  [![Website Badge](./images/Project.svg)](https://mohammedsh.com/projects)
+[![Website Badge](./images/Website.svg)](https://mohammedshajahan7.github.io/)
+[![Website Badge](./images/Blog.svg)](https://mohammedsh.com/)
+[![Website Badge](./images/Project.svg)](https://mohammedsh.com/projects)
 
-</div>
-
-<span style="display: flex !important;align-items: center !important;">
-
+<p>
   <img 
     align="left" 
     width="150" 
@@ -22,29 +17,21 @@ I am Mohammed, a self-taught programmer who loves to make & tinker with things
     style="margin-right: 2rem;" 
   />
 
-  - 🔭 I’m currently working on many stuff.
-  - 📫 How to reach me: mohammedshajahan7000@gmail.com
-  - ⚡ Fun fact: I play games and learning martial arts very often.
-  - 💸 [Donate](https://mohammedsh.com/donate)
+  -   🔭 I’m currently working on many stuff.
+  -   📫 How to reach me: [mohammedsh.com/contact](https://mohammedsh.com/contact)
+  -   ⚡ Fun fact: I play games and learning martial arts very often.
+  -   💸 [Donate](https://mohammedsh.com/donate)
 
-</span>
+</p>
 
-<br />
-<br />
-<br />
+### Social
 
-<div>
+[![Mastodon](./images/Mastodon.svg)](https://fosstodon.org/@MohammedShajahan7)
+[![Twitter](./images/Twitter.svg)](https://twitter.com/mhd_zh_han)
+[![Instagram](./images/Instagram.svg)](https://instagram.com/mhd__zh_han)
+[![Telegram](./images/Telegram.svg)](https://t.me/mohammed_shajahan)
 
-  ### Social
-
-  [![Mastodon](./images/Mastodon.svg)](https://fosstodon.org/@MohammedShajahan7)
-  [![Twitter](./images/Twitter.svg)](https://twitter.com/mhd_zh_han)
-  [![Instagram](./images/Instagram.svg)](https://instagram.com/mhd__zh_han)
-  [![Telegram](./images/Telegram.svg)](https://t.me/mohammed_shajahan)
-
-</div>
-
-#### Profile Visits 
+#### Profile Visits
 
 [![Visits Badge](https://badges.pufler.dev/visits/mohammedshajahan7/mohammedshajahan7)](https://badges.pufler.dev)
 
