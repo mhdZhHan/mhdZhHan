@@ -17,14 +17,10 @@ I am Mohammed, a self-taught programmer who loves to make & tinker with things
     style="margin-right: 20px;" 
   />
 
-  <br>
-  <br>
-  <br>
-
-  -   🔭 I’m currently working on many stuff.
-  -   📫 How to reach me: [mohammedsh.com/contact](https://mohammedsh.com/contact)
-  -   ⚡ Fun fact: I play games and learning martial arts very often.
-  -   💸 [Donate](https://mohammedsh.com/donate)
+  - 🔭 I’m currently working on many stuff.
+  - 📫 How to reach me: [mohammedsh.com/contact](https://mohammedsh.com/contact)
+  - ⚡ Fun fact: I play games and learning martial arts very often.
+  - 💸 [Donate](https://mohammedsh.com/donate)
 
 </p>
 
