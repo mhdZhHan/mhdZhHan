@@ -11,11 +11,15 @@ I am Mohammed, a self-taught programmer who loves to make & tinker with things
 <p>
   <img 
     align="left" 
-    width="150" 
+    width="150px" 
     src="./images/github-boy.png" 
-    alt="github-boy" 
-    style="margin-right: 2rem;" 
+    alt="github-boy"
+    style="margin-right: 20px;" 
   />
+
+  <br>
+  <br>
+  <br>
 
   -   🔭 I’m currently working on many stuff.
   -   📫 How to reach me: [mohammedsh.com/contact](https://mohammedsh.com/contact)
