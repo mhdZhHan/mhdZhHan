@@ -9,15 +9,16 @@ I am Mohammed, a self-taught programmer who loves to make & tinker with things
 [![Website Badge](./images/Project.svg)](https://mohammedsh.com/projects)
 
 <p>
-  <img 
+<!--   <img 
     align="left" 
     width="150px" 
     src="./images/github-boy.png" 
     alt="github-boy"
     style="margin-right: 20px;" 
-  />
+  /> -->
 
   - 🔭 I’m currently working on many stuff.
+  - 🥷🏻 I’m a self proclaimed code mafia
   - 📫 How to reach me: [mohammedsh.com/contact](https://mohammedsh.com/contact)
   - ⚡ Fun fact: I play games and learning martial arts very often.
   - 💸 [Donate](https://mohammedsh.com/donate)
