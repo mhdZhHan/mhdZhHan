@@ -8,22 +8,12 @@ I am Mohammed, a self-taught programmer who loves to make & tinker with things
 [![Website Badge](./images/Blog.svg)](https://mohammedsh.com/)
 [![Website Badge](./images/Project.svg)](https://mohammedsh.com/projects)
 
-<p>
-<!--   <img 
-    align="left" 
-    width="150px" 
-    src="./images/github-boy.png" 
-    alt="github-boy"
-    style="margin-right: 20px;" 
-  /> -->
-
-  - 🔭 I’m currently working on many stuff.
-  - 🥷🏻 I’m a self proclaimed code mafia
-  - 📫 How to reach me: [mohammedsh.com/contact](https://mohammedsh.com/contact)
-  - ⚡ Fun fact: I play games and learning martial arts very often.
-  - 💸 [Donate](https://mohammedsh.com/donate)
-
-</p>
+- 🔭 I’m currently working on many stuff.
+- 🥷🏻 I’m a self proclaimed code mafia
+- 📫 How to reach me: [mohammedsh.com/contact](https://mohammedsh.com/contact)
+- ⚡ Fun fact: It's not over until you win
+- 💸 [Donate](https://mohammedsh.com/donate)
+<!-- - ⚡ Fun fact: I play games and learning martial arts very often. -->
 
 ### Social
 
@@ -49,7 +39,7 @@ I am Mohammed, a self-taught programmer who loves to make & tinker with things
 
 #### Projects
 
-I've made a lot of free & open source software which you can find in👇
+I've made a lot of free & open source software which you can find in 👇
 
 <p align="center">
     <a href="https://mohammedsh.com/projects/" target="_blank"><img src="./images/Project.svg"/></a>
