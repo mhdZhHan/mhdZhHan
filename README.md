@@ -20,7 +20,7 @@ I am Mohammed, a self-taught programmer who loves to make & tinker with things
 [![Mastodon](./images/Mastodon.svg)](https://fosstodon.org/@MohammedShajahan7)
 [![Twitter](./images/Twitter.svg)](https://twitter.com/mhd_zh_han)
 [![Instagram](./images/Instagram.svg)](https://instagram.com/mhd__zh_han)
-[![Telegram](./images/Telegram.svg)](https://t.me/mohammed_shajahan)
+[![Telegram](./images/Telegram.svg)](https://t.me/mohammedshajahan7)
 
 #### Profile Visits
 
@@ -42,7 +42,7 @@ I am Mohammed, a self-taught programmer who loves to make & tinker with things
 I've made a lot of free & open source software which you can find in 👇
 
 <p align="center">
-    <a href="https://mohammedsh.com/projects/" target="_blank"><img src="./images/Project.svg"/></a>
+    <a href="https://mohammedsh.xyz/projects/" target="_blank"><img src="./images/Project.svg"/></a>
     <a href="https://github.com/MohammedShajahan7" target="_blank"><img src="./images/Github.svg"/></a>
     <a href="https://gitlab.com/MohammedShajahan7" target="_blank"><img src="./images/Gitlab.svg"/></a>
 </p>
