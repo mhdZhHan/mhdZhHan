@@ -5,14 +5,14 @@ I am Mohammed, a self-taught programmer who loves to make & tinker with things
 📫 Reach me out!
 
 [![Website Badge](./images/Website.svg)](https://mohammedshajahan7.github.io/)
-[![Website Badge](./images/Blog.svg)](https://mohammedsh.com/)
-[![Website Badge](./images/Project.svg)](https://mohammedsh.com/projects)
+[![Website Badge](./images/Blog.svg)](https://mohammedsh.xyz)
+[![Website Badge](./images/Project.svg)](https://mohammedsh.xyz/projects)
 
 - 🔭 I’m currently working on many stuff.
 - 🥷🏻 I’m a self proclaimed code mafia
-- 📫 How to reach me: [mohammedsh.com/contact](https://mohammedsh.com/contact)
+- 📫 How to reach me: [contact](https://mohammedsh.xyz/about#contact)
 - ⚡ Fun fact: It's not over until you win
-- 💸 [Donate](https://mohammedsh.com/donate)
+- 💸 [Donate](https://mohammedsh.xyz/donate)
 <!-- - ⚡ Fun fact: I play games and learning martial arts very often. -->
 
 ### Social
