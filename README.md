@@ -1,6 +1,6 @@
-## Hi ! I'm Mohammed <img src="./wave.gif" width="28" height="28" alt="hi" />
+## Hi there, I'm Mohammed <img src="./wave.gif" width="28" height="28" alt="hi" />
 
-I am Mohammed, a self-taught programmer who loves to make & tinker with things
+I'm a self-taught programmer who loves to create and tinker with things. Welcome to my GitHub!
 
 📫 Reach me out!
 
