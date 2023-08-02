@@ -1,6 +1,6 @@
 ## Hi there, I'm Mohammed <img src="./wave.gif" width="28" height="28" alt="hi" />
 
-I'm a self-taught programmer who loves to create and tinker with things. Welcome to my GitHub!
+I'm a self-taught programmer who loves to make and tinker with things. Welcome to my GitHub!
 
 📫 Reach me out!
 
