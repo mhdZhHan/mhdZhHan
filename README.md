@@ -18,13 +18,13 @@ I'm a self-taught programmer who loves to make and tinker with things. Welcome t
 ### Social
 
 [![Mastodon](./images/Mastodon.svg)](https://fosstodon.org/@MohammedShajahan7)
-[![Twitter](./images/Twitter.svg)](https://twitter.com/mhd_zh_han)
+[![Twitter](./images/Twitter.svg)](https://twitter.com/mhdZhHan)
 [![Instagram](./images/Instagram.svg)](https://instagram.com/mhd__zh_han)
-[![Telegram](./images/Telegram.svg)](https://t.me/mohammedshajahan7)
+[![Telegram](./images/Telegram.svg)](https://t.me/mhdZhHan)
 
 #### Profile Visits
 
-[![Visits Badge](https://badges.pufler.dev/visits/mohammedshajahan7/mohammedshajahan7)](https://badges.pufler.dev)
+[![Visits Badge](https://badges.pufler.dev/visits/mhdZhHan/mhdZhHan)](https://badges.pufler.dev)
 
 <details>
 <summary>
@@ -33,7 +33,7 @@ I'm a self-taught programmer who loves to make and tinker with things. Welcome t
 
 #### Github Stats
 
-![Mohammed's github stats](https://github-readme-stats.vercel.app/api?username=mohammedshajahan7&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true)
+![mhdZhHan's Stats](https://github-readme-stats.vercel.app/api?username=mhdZhHan&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 
 </details>
 
@@ -43,6 +43,6 @@ I've made a lot of free & open source software which you can find in 👇
 
 <p align="center">
     <a href="https://mohammedsh.xyz/projects/" target="_blank"><img src="./images/Project.svg"/></a>
-    <a href="https://github.com/MohammedShajahan7" target="_blank"><img src="./images/Github.svg"/></a>
-    <a href="https://gitlab.com/MohammedShajahan7" target="_blank"><img src="./images/Gitlab.svg"/></a>
+    <a href="https://github.com/mhdZhHan" target="_blank"><img src="./images/Github.svg"/></a>
+    <a href="https://gitlab.com/mhdZhHan" target="_blank"><img src="./images/Gitlab.svg"/></a>
 </p>
