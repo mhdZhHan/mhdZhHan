@@ -33,7 +33,7 @@ I'm a self-taught programmer who loves to make and tinker with things. Welcome t
 
 #### Github Stats
 
-![mhdZhHan's Stats](https://github-readme-stats.vercel.app/api?username=mhdZhHan&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+![mhDZhHan's Stats](https://github-readme-stats.vercel.app/api?username=mhDZhHan&theme=dark&show_icons=true&hide_border=true&count_private=true)
 
 </details>
 
