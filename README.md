@@ -15,12 +15,12 @@ I'm a self-taught programmer who loves to make and tinker with things. Welcome t
 - 💸 [Donate](https://mohammedsh.xyz/donate)
 <!-- - ⚡ Fun fact: I play games and learning martial arts very often. -->
 
-### Social
+<!-- ### Social
 
 [![Mastodon](./images/Mastodon.svg)](https://fosstodon.org/@MohammedShajahan7)
 [![Twitter](./images/Twitter.svg)](https://twitter.com/mhdZhHan)
 [![Instagram](./images/Instagram.svg)](https://instagram.com/mhd__zh_han)
-[![Telegram](./images/Telegram.svg)](https://t.me/mhdZhHan)
+[![Telegram](./images/Telegram.svg)](https://t.me/mhdZhHan) -->
 
 #### Profile Visits
 
@@ -28,10 +28,8 @@ I'm a self-taught programmer who loves to make and tinker with things. Welcome t
 
 <details>
 <summary>
-  More stuff 👇
+  Github Stats 👇
 </summary>
-
-#### Github Stats
 
 ![mhDZhHan's Stats](https://github-readme-stats.vercel.app/api?username=mhDZhHan&theme=dark&show_icons=true&hide_border=true&count_private=true)
 
