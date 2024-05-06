@@ -8,7 +8,7 @@ I'm a self-taught programmer who loves to make and tinker with things. Welcome t
 [![Website Badge](./images/Blog.svg)](https://mohammedsh.xyz/blog/)
 [![Website Badge](./images/Project.svg)](https://mohammedsh.xyz/projects/)
 
-- 🔭 I’m currently working on many stuff.
+- 🔭 I’m currently working on many stuff
 - 🥷🏻 I’m a self proclaimed code mafia
 - 📫 How to reach me: [contact](https://mohammedsh.xyz/about#contact)
 - ⚡ Fun fact: It's not over until you win
