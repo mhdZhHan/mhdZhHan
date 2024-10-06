@@ -46,8 +46,7 @@ I'm a self-taught programmer who loves to make and tinker with things. Welcome t
 <summary>
   Click to view my github Stats 👇
 </summary>
-<br />
-  
+
 ![mhDZhHan's Stats](https://github-readme-stats.vercel.app/api?username=mhDZhHan&theme=dark&show_icons=true&hide_border=true&count_private=true)
 
 </details>
