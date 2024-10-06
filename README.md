@@ -25,7 +25,7 @@ I'm a self-taught programmer who loves to make and tinker with things. Welcome t
 ## 📝 Latest Blog Posts
 
 <details>
-<summary>Click to view my latest blog posts</summary>
+<summary>Click to view my latest blog posts 👇</summary>
   
 1. [Ultimate Guide Setting Up VPS Server For Beginners](https://mohammedsh.xyz/blog/2024-10-04-ultimate-guide-setting-up-vps-server-for-beginners)
 2. [Simple Nginx Installation Guide Power Up Your Server 🚀](https://mohammedsh.xyz/blog/2024-10-04-simple-nginx-installation-guide-power-up-your-server)
@@ -44,7 +44,7 @@ I'm a self-taught programmer who loves to make and tinker with things. Welcome t
 
 <details>
 <summary>
-  Github Stats 👇
+  Click to view my github Stats 👇
 </summary>
 <br />
   
