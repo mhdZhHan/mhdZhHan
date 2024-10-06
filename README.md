@@ -22,6 +22,20 @@ I'm a self-taught programmer who loves to make and tinker with things. Welcome t
 [![Instagram](./images/Instagram.svg)](https://instagram.com/mhd__zh_han)
 [![Telegram](./images/Telegram.svg)](https://t.me/mhdZhHan) -->
 
+## 📝 Latest Blog Posts
+
+Here are some of my recent blog posts:
+
+1. [Ultimate Guide Setting Up VPS Server For Beginners](https://mohammedsh.xyz/blog/2024-10-04-ultimate-guide-setting-up-vps-server-for-beginners)
+2. [Simple Nginx Installation Guide Power Up Your Server 🚀](https://mohammedsh.xyz/blog/2024-10-04-simple-nginx-installation-guide-power-up-your-server)
+3. [Setting Up Nginx On Ubuntu Make Your Web Server Awesome](https://mohammedsh.xyz/blog/2024-10-04-setting-up-nginx-on-ubuntu-make-your-web-server-awesome)
+4. [Adding Rate Limiting To Nginx Protect Your Website](https://mohammedsh.xyz/blog/2024-10-04-adding-rate-limiting-to-nginx-protect-your-website)
+5. [Setting Up SSL for Nginx on Ubuntu: Secure Your Site with a Magic Shield! 🛡️](https://mohammedsh.xyz/blog/2024-10-04-setting-up-ssl-nginx-ubuntu-secure-site-magic-shield)
+6. [Deploy Node.js API and Set Up Nginx Reverse Proxy: Your Web Traffic Control Tower! 🚦](https://mohammedsh.xyz/blog/2024-10-04-deploy-nodejs-api-nginx-reverse-proxy)
+7. [Connecting Remote Servers Dolphin File Manager 🐬💻](https://mohammedsh.xyz/blog/2024-10-05-connecting-remote-servers-dolphin-file-manager)
+
+📖 [Check out all my blog posts here!](https://mohammedsh.xyz)
+
 #### Profile Visits
 
 [![Visits Badge](https://badges.pufler.dev/visits/mhdZhHan/mhdZhHan)](https://badges.pufler.dev)
