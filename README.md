@@ -24,8 +24,9 @@ I'm a self-taught programmer who loves to make and tinker with things. Welcome t
 
 ## 📝 Latest Blog Posts
 
-Here are some of my recent blog posts:
-
+<details>
+<summary>Click to view my latest blog posts</summary>
+  
 1. [Ultimate Guide Setting Up VPS Server For Beginners](https://mohammedsh.xyz/blog/2024-10-04-ultimate-guide-setting-up-vps-server-for-beginners)
 2. [Simple Nginx Installation Guide Power Up Your Server 🚀](https://mohammedsh.xyz/blog/2024-10-04-simple-nginx-installation-guide-power-up-your-server)
 3. [Setting Up Nginx On Ubuntu Make Your Web Server Awesome](https://mohammedsh.xyz/blog/2024-10-04-setting-up-nginx-on-ubuntu-make-your-web-server-awesome)
@@ -35,8 +36,9 @@ Here are some of my recent blog posts:
 7. [Connecting Remote Servers Dolphin File Manager 🐬💻](https://mohammedsh.xyz/blog/2024-10-05-connecting-remote-servers-dolphin-file-manager)
 
 📖 [Check out all my blog posts here!](https://mohammedsh.xyz)
+</details>
 
-#### Profile Visits
+### Profile Visits
 
 [![Visits Badge](https://badges.pufler.dev/visits/mhdZhHan/mhdZhHan)](https://badges.pufler.dev)
 
@@ -50,7 +52,7 @@ Here are some of my recent blog posts:
 
 </details>
 
-#### Projects
+### Projects
 
 I've made a lot of free & open source software which you can find in 👇
 
