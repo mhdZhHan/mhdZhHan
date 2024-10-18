@@ -13,6 +13,8 @@ I'm a self-taught programmer who loves to make and tinker with things. Welcome t
 - 📫 How to reach me: [contact](https://mohammedsh.xyz/about#contact)
 - ⚡ Fun fact: It's not over until you win
 - 💸 [Donate](https://mohammedsh.xyz/donate)
+
+[![Visits Badge](https://badges.pufler.dev/visits/mhdZhHan/mhdZhHan)](https://badges.pufler.dev)
 <!-- - ⚡ Fun fact: I play games and learning martial arts very often. -->
 
 <!-- ### Social
@@ -38,18 +40,14 @@ I'm a self-taught programmer who loves to make and tinker with things. Welcome t
 📖 [Check out all my blog posts here!](https://mohammedsh.xyz)
 </details>
 
-### Profile Visits
-
-[![Visits Badge](https://badges.pufler.dev/visits/mhdZhHan/mhdZhHan)](https://badges.pufler.dev)
-
-<details>
+<!-- <details>
 <summary>
   Click to view my github Stats 👇
 </summary>
 
 ![mhDZhHan's Stats](https://github-readme-stats.vercel.app/api?username=mhDZhHan&theme=dark&show_icons=true&hide_border=true&count_private=true)
 
-</details>
+</details> -->
 
 ### Projects
 
