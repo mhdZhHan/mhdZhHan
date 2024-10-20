@@ -49,7 +49,7 @@ I'm a self-taught programmer who loves to make and tinker with things. Welcome t
 
 </details> -->
 
-### Projects
+## 💡 Projects
 
 I've made a lot of free & open source software which you can find in 👇
 
