@@ -14,7 +14,7 @@ I'm a self-taught programmer who loves to make and tinker with things. Welcome t
 - ⚡ Fun fact: It's not over until you win
 - 💸 [Donate](https://mohammedsh.xyz/donate)
 
-[![Visits Badge](https://badges.pufler.dev/visits/mhdZhHan/mhdZhHan)](https://badges.pufler.dev)
+![Visitors](https://komarev.com/ghpvc/?username=mhdZhHan&label=Visitors&color=green&style=plastic)
 <!-- - ⚡ Fun fact: I play games and learning martial arts very often. -->
 
 <!-- ### Social
